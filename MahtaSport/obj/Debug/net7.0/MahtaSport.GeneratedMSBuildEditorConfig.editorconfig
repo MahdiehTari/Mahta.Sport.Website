@@ -9,37 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MahtaSport
 build_property.RootNamespace = MahtaSport
-build_property.ProjectDir = /Users/apep/Projects/MahtaSport/MahtaSport/
+build_property.ProjectDir = /Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/apep/Projects/MahtaSport/MahtaSport
+build_property.MSBuildProjectDirectory = /Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/Home/Index.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9hYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9ibG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/class.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jbGFzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9wb3J0Zm9saW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/Shared/Error.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/price.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9wcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaW5nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Home/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS90ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/_ViewImports.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/_ViewStart.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apep/Projects/MahtaSport/MahtaSport/Views/Shared/_Layout.cshtml]
+[/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bjzgvtgj0b

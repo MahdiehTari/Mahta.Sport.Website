@@ -13,13 +13,13 @@
     <!-- CSS Libraries -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="lib/animate/animate.min.css" rel="stylesheet">
-    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="~/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="~/lib/flaticon/font/flaticon.css" rel="stylesheet">
+    <link href="~/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="~/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
 </head>
 <body>
     <!-- Top Bar Start -->
@@ -64,13 +64,13 @@
 
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav ml-auto">
-                    <a href="index.html" class="nav-item nav-link">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="service.html" class="nav-item nav-link">Service</a>
-                    <a href="price.html" class="nav-item nav-link">Price</a>
-                    <a href="class.html" class="nav-item nav-link">Class</a>
-                    <a href="team.html" class="nav-item nav-link">Trainer</a>
-                    <a href="portfolio.html" class="nav-item nav-link">Pose</a>
+                    <a href="@Url.Action("Index",controller:"Home")" class="nav-item nav-link active">Home</a>
+                    <a href="@Url.Action("About",controller:"Home")" class="nav-item nav-link">About</a>
+                    <a href="@Url.Action("Service",controller:"Home")" class="nav-item nav-link">Service</a>
+                    <a href="@Url.Action("Price",controller:"Home")" class="nav-item nav-link">Price</a>
+                    <a href="@Url.Action("Class",controller:"Home")" class="nav-item nav-link">Class</a>
+                    <a href="@Url.Action("Index",controller:"Home")" class="nav-item nav-link">Trainer</a>
+                    <a href="@Url.Action("Index",controller:"Home")" class="nav-item nav-link">Pose</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Blog</a>
                         <div class="dropdown-menu">
@@ -78,7 +78,8 @@
                             <a href="single.html" class="dropdown-item">Blog Detail</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link active">Contact</a>
+                    <a href="@Url.Action("Contact",controller:"Home")" class="nav-item nav-link">Contact</a>
+
                 </div>
             </div>
         </div>
@@ -142,18 +143,18 @@
     <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="~/lib/easing/easing.min.js"></script>
+    <script src="~/lib/wow/wow.min.js"></script>
+    <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="~/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="~/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Contact Javascript File -->
-    <script src="mail/jqBootstrapValidation.min.js"></script>
-    <script src="mail/contact.js"></script>
+    <script src="~/mail/jqBootstrapValidation.min.js"></script>
+    <script src="~/mail/contact.js"></script>
 
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="~/js/main.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

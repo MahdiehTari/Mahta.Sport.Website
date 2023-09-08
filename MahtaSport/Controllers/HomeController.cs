@@ -18,10 +18,45 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Contact()
     {
         return View();
     }
+
+    public IActionResult About()
+    {
+        return View();
+    }
+    public IActionResult Blog()
+    {
+        return View();
+    }
+
+    public IActionResult team()
+    {
+        return View();
+    }
+
+    public IActionResult Single()
+    {
+        return View();
+    }
+
+    public IActionResult Price()
+    {
+        return View();
+    }
+    public IActionResult Service()
+    {
+        return View();
+    }
+    public IActionResult Portfolio()
+    {
+        return View();
+    }
+
+
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
