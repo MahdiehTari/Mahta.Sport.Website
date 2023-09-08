@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/obj/Debug/net7.0/scopedcss/projectbundle/MahtaSport.bundle.scp.css",
+      "PackagePath": "staticwebassets/MahtaSport.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/about.png",
+      "PackagePath": "staticwebassets/img/about.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/img/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/img/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/img/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-4.jpg",
+      "PackagePath": "staticwebassets/img/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-5.jpg",
+      "PackagePath": "staticwebassets/img/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/blog-6.jpg",
+      "PackagePath": "staticwebassets/img/blog-6.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-1.jpg",
+      "PackagePath": "staticwebassets/img/class-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-2.jpg",
+      "PackagePath": "staticwebassets/img/class-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-3.jpg",
+      "PackagePath": "staticwebassets/img/class-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-4.jpg",
+      "PackagePath": "staticwebassets/img/class-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-5.jpg",
+      "PackagePath": "staticwebassets/img/class-5.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/class-6.jpg",
+      "PackagePath": "staticwebassets/img/class-6.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/discount-bg.png",
+      "PackagePath": "staticwebassets/img/discount-bg.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/footer-bg.png",
+      "PackagePath": "staticwebassets/img/footer-bg.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/hero.png",
+      "PackagePath": "staticwebassets/img/hero.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-7.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-7.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-8.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-8.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/portfolio-9.jpg",
+      "PackagePath": "staticwebassets/img/portfolio-9.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/post-1.jpg",
+      "PackagePath": "staticwebassets/img/post-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/post-2.jpg",
+      "PackagePath": "staticwebassets/img/post-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/post-3.jpg",
+      "PackagePath": "staticwebassets/img/post-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/post-4.jpg",
+      "PackagePath": "staticwebassets/img/post-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/post-5.jpg",
+      "PackagePath": "staticwebassets/img/post-5.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/single.jpg",
+      "PackagePath": "staticwebassets/img/single.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-1.png",
+      "PackagePath": "staticwebassets/img/teacher-1.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-2.png",
+      "PackagePath": "staticwebassets/img/teacher-2.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-3.png",
+      "PackagePath": "staticwebassets/img/teacher-3.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-4.png",
+      "PackagePath": "staticwebassets/img/teacher-4.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-5.png",
+      "PackagePath": "staticwebassets/img/teacher-5.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/teacher-6.png",
+      "PackagePath": "staticwebassets/img/teacher-6.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/img/user.jpg",
+      "PackagePath": "staticwebassets/img/user.jpg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/backup.txt",
+      "PackagePath": "staticwebassets/lib/flaticon/backup.txt"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/Flaticon.eot",
+      "PackagePath": "staticwebassets/lib/flaticon/font/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/Flaticon.svg",
+      "PackagePath": "staticwebassets/lib/flaticon/font/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/Flaticon.ttf",
+      "PackagePath": "staticwebassets/lib/flaticon/font/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/Flaticon.woff",
+      "PackagePath": "staticwebassets/lib/flaticon/font/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/Flaticon.woff2",
+      "PackagePath": "staticwebassets/lib/flaticon/font/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/_flaticon.scss",
+      "PackagePath": "staticwebassets/lib/flaticon/font/_flaticon.scss"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/flaticon.css",
+      "PackagePath": "staticwebassets/lib/flaticon/font/flaticon.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/font/flaticon.html",
+      "PackagePath": "staticwebassets/lib/flaticon/font/flaticon.html"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/flaticon/license/license.pdf",
+      "PackagePath": "staticwebassets/lib/flaticon/license/license.pdf"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/isotope/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/lib/isotope/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/isotope/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/lib/isotope/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/css/lightbox.css",
+      "PackagePath": "staticwebassets/lib/lightbox/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/lib/lightbox/css/lightbox.min.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/images/close.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/close.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/images/loading.gif",
+      "PackagePath": "staticwebassets/lib/lightbox/images/loading.gif"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/images/next.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/next.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/images/prev.png",
+      "PackagePath": "staticwebassets/lib/lightbox/images/prev.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/js/lightbox.js",
+      "PackagePath": "staticwebassets/lib/lightbox/js/lightbox.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/lib/lightbox/js/lightbox.min.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/lightbox/links.php",
+      "PackagePath": "staticwebassets/lib/lightbox/links.php"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/wow/wow.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/lib/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.min.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/mail/contact.js",
+      "PackagePath": "staticwebassets/mail/contact.js"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/mail/contact.php",
+      "PackagePath": "staticwebassets/mail/contact.php"
+    },
+    {
+      "Id": "/Users/apep/Projects/MahtaSport/MahtaSport/wwwroot/mail/jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets/mail/jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MahtaSport.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MahtaSport.props",
+      "PackagePath": "build\\MahtaSport.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MahtaSport.props",
+      "PackagePath": "buildMultiTargeting\\MahtaSport.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MahtaSport.props",
+      "PackagePath": "buildTransitive\\MahtaSport.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
