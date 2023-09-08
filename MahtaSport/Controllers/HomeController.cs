@@ -7,6 +7,7 @@ namespace MahtaSport.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private string? contact;
 
     public HomeController(ILogger<HomeController> logger)
     {
@@ -20,7 +21,13 @@ public class HomeController : Controller
 
     public IActionResult Contact()
     {
-        return View();
+        var cantact = new Contact()
+        {
+            Maile = "mahdieh.tarikhchi@gmail.com",
+            Mobile = "09381248141",
+            Address = "mashhad"
+        };
+        return View(cantact);
     }
 
     public IActionResult About()
