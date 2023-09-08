@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apep/Projects/MahtaSport/MahtaSport/MahtaSport.csproj",
+      "projectUniqueName": "/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/MahtaSport.csproj",
       "projectName": "MahtaSport",
-      "projectPath": "/Users/apep/Projects/MahtaSport/MahtaSport/MahtaSport.csproj",
+      "projectPath": "/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/MahtaSport.csproj",
       "packagesPath": "/Users/apep/.nuget/packages/",
-      "outputPath": "/Users/apep/Projects/MahtaSport/MahtaSport/obj/",
+      "outputPath": "/Users/apep/Documents/GitHub/Mahta.Sport.Website/MahtaSport/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apep/.nuget/NuGet/NuGet.Config"
