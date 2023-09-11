@@ -1,24 +1,27 @@
 ﻿<Properties StartupConfiguration="{E9C1DE3E-6C7D-4B1B-B896-96F5F3225AEE}|https">
   <MonoDevelop.Ide.ItemProperties.MahtaSport PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MahtaSport/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MahtaSport/Controllers/HomeController.cs">
     <Files>
-      <File FileName="MahtaSport/Views/Home/about.cshtml" Line="1" Column="1" />
+      <File FileName="MahtaSport/Views/Home/about.cshtml" />
       <File FileName="MahtaSport/Models/Contact.cs" Line="12" Column="2" />
-      <File FileName="MahtaSport/Controllers/HomeController.cs" Line="30" Column="23" />
+      <File FileName="MahtaSport/Controllers/HomeController.cs" Line="37" Column="23" />
       <File FileName="MahtaSport/Views/Shared/_Layout.cshtml" Line="119" Column="44" />
-      <File FileName="MahtaSport/Views/Home/Index.cshtml" Line="737" Column="44" />
+      <File FileName="MahtaSport/Views/Home/Index.cshtml" Line="174" Column="48" />
+      <File FileName="MahtaSport/Models/kindofyoo.cs" Line="12" Column="1" />
+      <File FileName="MahtaSport/Views/Home/portfolio.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MahtaSport">
-            <Node name="MahtaSport">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views">
-                <Node name="Home">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+          <Node name="MahtaSport" expanded="True">
+            <Node name="MahtaSport" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
